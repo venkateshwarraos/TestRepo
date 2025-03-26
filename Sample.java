@@ -17,7 +17,7 @@ public class Sample {
 
     public void getPrint() {
 
-        System.out.println("sample print");
+        System.out.println("sample print test");
 
 
     }
